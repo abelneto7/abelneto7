@@ -20,6 +20,7 @@
     <img align="center" height="30" width="40" alt="vue.js" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original-wordmark.svg">
     <img align="center" height="30" width = "40" height="30" width = "40" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
     <img align="center" height="30" width = "40" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg"/>
+    <img align="center" height="30" width="40" alt="node.js" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
 
 ## IDEs utilizadas
@@ -31,7 +32,7 @@
     <img align="center" height="30" width = "40" alt="eclipse" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/eclipse/eclipse-original.svg"/>
 </div>
 
-## 🎯 Objetivos e Interesses
+## Objetivos e Interesses
 
 - **Desenvolvimento Fullstack**
 - **Backend:** <img align="center" height="30" width="40" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"> <img align="center" height="30" width="40" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <img align="center" height="30" width="40" alt="node.js" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg"> <img align="center" height="30" width="40" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg">
