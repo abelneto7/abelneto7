@@ -32,8 +32,8 @@
 ---
 
 ## 🌱 O que estou aprendendo  
-- **Micro frontends** com Vue e React  
-- **Kubernetes avançado** com CI/CD  
+- **Micro frontends** com Vue, React e Next  
+- **Kubernetes avançado** com CI/CD 
 - **GraphQL e Apollo** na camada backend/frontend  
 
 ---
@@ -44,11 +44,5 @@ Desenvolvedor fullstack na Indústria José Augusto Vieira.
 ---
 
 ## 📫 Contato  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abel-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abelneto09/)  
-[![Instagram](https://img.shields.io/badge/Instagram-AbelDev-orange?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abelneto07/)
-
----
-
-<div align="center">
-  <img src="https://github.com/DenverCoder1/github-readme-streak-stats/blob/output/AbelNetoStreak.svg" alt="GitHub Streak" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abelneto09-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abelneto09/)  
+[![Instagram](https://img.shields.io/badge/Instagram-abelneto07-orange?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abelneto07/)
