@@ -11,7 +11,7 @@
 - 💼 Atualmente trabalhando em projetos com Laravel, React e Tailwind  
 - 🎓 Estudando micro frontends e DDD  
 - 🧩 Aberto a colaborações em projetos Open Source  
-- 📫 Entre em contato: abel@example.com
+- 📫 Entre em contato: abel.fullstack@gmail.com
 
 ---
 
