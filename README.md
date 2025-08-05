@@ -21,6 +21,9 @@
     <img align="center" height="30" width = "40" height="30" width = "40" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
     <img align="center" height="30" width = "40" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg"/>
     <img align="center" height="30" width="40" alt="node.js" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg">
+    <img align="center" height="30" width="40" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-plain.svg">
+    <img align="center" height="30" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="spring" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg">
 </div>
 
 ## IDEs utilizadas
