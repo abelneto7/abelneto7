@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Sobre Mim
-- 💼 Atualmente trabalhando em projetos com Vue, React e Node.js  
+- 💼 Atualmente trabalhando em projetos com Laravel, React e Tailwind  
 - 🎓 Estudando micro frontends e DDD  
 - 🧩 Aberto a colaborações em projetos Open Source  
 - 📫 Entre em contato: abel@example.com
@@ -39,7 +39,7 @@
 ---
 
 ## 🏆 Contribuições Recentes  
-Exibe últimas atividades automaticamente usando GitHub Actions + widgets :contentReference[oaicite:18]{index=18}
+Desenvolvedor fullstack na Indústria José Augusto Vieira.
 
 ---
 
