@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Oi! Eu sou Abel🙋🏻‍♂️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Oi! Eu sou Abel🙋🏻‍♂️&animation=fadeIn&type=waving&color=black&height=100"/>
 </p>
 
 ### 👋 Olá, sou o Abel!
