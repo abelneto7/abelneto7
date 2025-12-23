@@ -15,12 +15,10 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
+## 🛠️ Tecnologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-
-💻 Também familiar com Node.js, Laravel, Spring, Vue.js, React, Flutter, etc.
 
 ---
 
@@ -28,13 +26,6 @@
 ![Abel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abelneto7&show_icons=true&theme=merko)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abelneto7&layout=compact&theme=merko)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=abelneto7&theme=merko)
-
----
-
-## 🌱 O que estou aprendendo  
-- **Micro frontends** com Vue, React e Next  
-- **Kubernetes avançado** com CI/CD 
-- **GraphQL e Apollo** na camada backend/frontend  
 
 ---
 
