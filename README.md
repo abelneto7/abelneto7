@@ -3,15 +3,8 @@
 </p>
 
 ### 👋 Olá, sou o Abel!
-*Desenvolvedor Fullstack apaixonado por criar soluções escaláveis e eficientes.*  
-
----
-
-## 🚀 Sobre Mim
-- 💼 Atualmente trabalhando em projetos com Laravel, React e Tailwind  
-- 🎓 Estudando micro frontends e DDD  
-- 🧩 Aberto a colaborações em projetos Open Source  
-- 📫 Entre em contato: abel.fullstack@gmail.com
+*Desenvolvedor Fullstack apaixonado por criar soluções escaláveis e eficientes.*
+*Atualmente é desenvolvedor web fullstack na indústria Jose Augusto Vieira.*
 
 ---
 
@@ -20,17 +13,8 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
 
----
-
-## 📊 Estatísticas  
-![Abel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abelneto7&show_icons=true&theme=merko)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abelneto7&layout=compact&theme=merko)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=abelneto7&theme=merko)
-
----
-
-## 🏆 Contribuições Recentes  
-Desenvolvedor fullstack na Indústria José Augusto Vieira.
 
 ---
 
