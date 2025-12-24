@@ -4,11 +4,11 @@
 
 ### 👋 Olá, sou o Abel!
 *Desenvolvedor Fullstack apaixonado por criar soluções escaláveis e eficientes.*
+
 *Atualmente é desenvolvedor web fullstack na indústria Jose Augusto Vieira.*
 
 ---
 
-## 🛠️ Tecnologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
