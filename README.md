@@ -10,7 +10,6 @@
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abelneto7&layout=compact&theme=merko)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=abelneto7&theme=merko)
 
 ---
 
