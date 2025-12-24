@@ -9,10 +9,6 @@
 
 ---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abelneto7&layout=compact&theme=merko)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=abelneto7&theme=merko)
 
