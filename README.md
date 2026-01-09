@@ -9,10 +9,6 @@
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abelneto7&layout=compact&theme=merko)  
-
----
-
 ## 📫 Contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abelneto09-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abelneto09/)  
 [![Instagram](https://img.shields.io/badge/Instagram-abelneto07-orange?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abelneto07/)
